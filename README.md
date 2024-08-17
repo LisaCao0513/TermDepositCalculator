@@ -33,7 +33,7 @@ The application uses a traditional layered architecture:
 2. **Build and Run the Project**:
     ```bash
     mvn clean package
-    java -jar target/term-deposit-service-0.0.1-SNAPSHOT.jar
+    java -jar target/DepositCalculator-0.0.1-SNAPSHOT.jar
     ```
 
 3. **Access the API**:
