@@ -38,6 +38,7 @@ The application uses a traditional layered architecture:
 
 3. **Access the API**:
 - Base URL: `http://localhost:8080/swagger-ui/index.html`
+- Temp AWS service URL: `http://termdepositcalculator.ap-southeast-2.elasticbeanstalk.com/swagger-ui/index.html`
 - Endpoint: `POST /api/term-deposit/calculator`
 
 Test in swagger
